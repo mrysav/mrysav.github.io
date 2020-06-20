@@ -1,10 +1,15 @@
 body {
+    margin: 40px auto;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #444;
+    padding: 0 10px;
     font-family: monospace;
     text-align: center
 }
 
-h2.title {
-    margin: 2rem 0 1rem 0;
+h1,h2,h3 {
+    line-height:1.2;
 }
 
 hr.short {
@@ -27,16 +32,7 @@ hr.short {
     font-weight: bold;
 }
 
-.other-links a {
-    display: block;
-}
-
 img.picture {
     margin: 1rem 0;
     border-radius: 100px;
-}
-
-a.contact {
-    margin: 1rem 0;
-    display: block;
 }
