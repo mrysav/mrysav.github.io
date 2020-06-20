@@ -36,3 +36,7 @@ img.picture {
     margin: 1rem 0;
     border-radius: 100px;
 }
+
+.nowrap {
+    white-space: nowrap;
+}
