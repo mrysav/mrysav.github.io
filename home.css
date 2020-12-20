@@ -32,6 +32,11 @@ hr.short {
     font-weight: bold;
 }
 
+.experience .job-tenure, .education .degree-spec, .education .degree-tenure {
+    font-size: 14px;
+}
+
+
 img.picture {
     margin: 1rem 0;
     border-radius: 100px;
