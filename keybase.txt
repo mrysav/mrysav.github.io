@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/mrysav
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mitchellrysavy.com
+  * I am mrysav (https://keybase.io/mrysav) on keybase.
+  * I have a public key with fingerprint ED40 9793 943A 6989 8477  0E1E 03E0 C4AD F0B9 2EDD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010192bcd40b1b4c9dd79ce76387d7140801b510d54094a29d76a0a164400febb66d0a",
+      "fingerprint": "ed409793943a698984770e1e03e0c4adf0b92edd",
+      "host": "keybase.io",
+      "key_id": "03e0c4adf0b92edd",
+      "kid": "010192bcd40b1b4c9dd79ce76387d7140801b510d54094a29d76a0a164400febb66d0a",
+      "uid": "c0528757accfa1157f35f8c671420c19",
+      "username": "mrysav"
+    },
+    "service": {
+      "hostname": "mitchellrysavy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1693694992,
+  "expire_in": 157680000,
+  "prev": "a1f7cdc430415be2583a68fec2fe2db002d3834a853774e86dc97ad50064028d",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1QVFUYx5eXsNAEiXEAleCSE9GK577fuzop4IyW2ILyFhjLfTnLXoG7uHsX
+WhkiGBCX0YAEk2SZUKQBgeSlssCRUVGcgAqjyUZTIUxIK6F0SpPuUnzqa+fLmfM8
+///vec5zTtXTHhpvN48b59t//TTymtvnU7xGnO1bWYDwZtGO6AqQLDi/wWwRWhVD
+liQiOgSgAGUxXhAJwKM8IbCiSLMCpCmcoUUaJQADUJ5EgUgSgCU4jBVpigMcShEE
+AEbI8xQlAg7RIkZJzoSWXIskKyoWqjyWZnGWwDmKZViGoGkAUQhwCASCE42AZzEo
+iqrRZLa6HGpzPGeFkZJZjakHwz/t/Vf/P/dtm8cJgMQYmqQ5QTByKErSRpw0MgKl
+kjAgoKxLaIUWmcuBqjrHYrdyeUihFlFjeZIAXWN13WMhLymCCWZnz8vskYI5R/Xn
+WsyKWTBnq3mTouRadS6/Ys91GfIhb/gXZeAlWVRnqTryoMUqmWVEh6pKQZFcbJRi
+cYolWBbTIvCNXMkCDZJLQdIUA9TlqgPzVCSHGnfSgigQOCBQkocYyahPwRihgBkh
+JvIAYCLO4ATHkDhNE5ChRIGlOZEEgCIAxrhGbYW7ZTOiU0spXKbKtEqZMqfYLBAp
+9Ha4454aN2/NquWhnnc3vnuwRic5SvOXBi/8vyfcXZ9P4/2U70IkSfbV9Md6zm2d
+OJ3ae8533fMh9RGdFdWF0Ud3ECsc2zKu6QevO+SptONpjm+Dnh1s/m6xvmvtLXtx
+U9Wk94ttN1OqlofOjZ6/12S7nI/VrX+ZB2Rlo3+PPbG6Sfn5iHZkSSWPrkv/8IW1
+3V5/ku/5Z5QcjA5xxkmFX+SdvBfbQcT47dtABaaWXRmfDqmr/bEjyGdp1O/TnNvt
+8QBHwvpDSX0RWceSH2vKtx2P70poOJX06uYvfZZt7iss9duCd/2VsWhIXjzec1if
+csdvS+kzd+rl+IHenoKWt+uC3Gp73cs6PWfEsO+BM/rJIl3K9q2b3oHDilN7dI1l
+xp69bE+F6cx45ceZUafPLLo/4B0/5DERNh5NybOHHrx0qezEB/lxz42F/lI0FO9s
+LekuP/b+o5Xo6rO62vrfTvq5twUaIi5flIcrgydHk7m9M7OJ4Usu/uRbNXcp1Kbf
+r9+bevvshtGctpvtn7XsLJZeyzIUTF5PaxiorulrSHh96PGehy3dASOTAXEfJZV9
+8xWMuZLeyZkShSL2h4QQQ0RzEXMi6BW5op/ZX+aMpNNPDfaHBe9a1bJPOdBxpOaP
+NTZtoGXXOS+fC23+040rkp2m1V4V7WNXrcGNJWNfv3Uj6v5EuVIb8GhH+EYFTImH
+ox3FzeH6iNhIebjX1vrJ1e3Db05tShoh7gbGyA8vPGidurX7bw==
+=HVu5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrysav
+
+==================================================================
+
