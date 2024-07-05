@@ -1,0 +1,4 @@
+user-agent: *
+
+# nothing wrong with humans seeing this, just don't want it indexed
+disallow: /blog/archive/
