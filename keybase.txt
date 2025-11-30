@@ -4,77 +4,67 @@ https://keybase.io/mrysav
 
 I hereby claim:
 
-  * I am an admin of http://mitchellrysavy.com
+  * I am an admin of https://www.mitchellrysavy.com
   * I am mrysav (https://keybase.io/mrysav) on keybase.
-  * I have a public key with fingerprint ED40 9793 943A 6989 8477  0E1E 03E0 C4AD F0B9 2EDD
+  * I have a public key with fingerprint 3B4D 0CC1 8CEC 4A17 523E  DD46 619D A262 4ED7 F150
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "010192bcd40b1b4c9dd79ce76387d7140801b510d54094a29d76a0a164400febb66d0a",
-      "fingerprint": "ed409793943a698984770e1e03e0c4adf0b92edd",
+      "eldest_kid": "01206ddf55ba1eeee372d2e9704c524afccd37e13ac50554152832bb6cc7c64e651c0a",
+      "fingerprint": "3b4d0cc18cec4a17523edd46619da2624ed7f150",
       "host": "keybase.io",
-      "key_id": "03e0c4adf0b92edd",
-      "kid": "010192bcd40b1b4c9dd79ce76387d7140801b510d54094a29d76a0a164400febb66d0a",
+      "key_id": "619da2624ed7f150",
+      "kid": "010147a67132271a18fcf9111abd7af4441a014b7afaa91eec91d864938a39071f890a",
       "uid": "c0528757accfa1157f35f8c671420c19",
       "username": "mrysav"
     },
-    "merkle_root": {
-      "ctime": 1710557501,
-      "hash_meta": "77e18486683fc6cd92b13454adc3c8f7976cce062000b87974827da863ea242f",
-      "seqno": 25557011
-    },
-    "revoke": {
-      "sig_ids": [
-        "5915dd6bf5c0f0dff170260e982ab06ab299b8ddc0c017a547f7e243aa80b77c0f"
-      ]
-    },
     "service": {
-      "hostname": "mitchellrysavy.com",
-      "protocol": "http:"
+      "hostname": "www.mitchellrysavy.com",
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1710557509,
+  "ctime": 1764514115,
   "expire_in": 157680000,
-  "prev": "a49dca37247315482b8bf3533c4a433ddec3a649005bc641f41f07ea31066bcc",
-  "seqno": 4,
+  "prev": "05e6451a86b371beb77638e6af4c73fcdc8635a45b9d5b9309e73705d8521fe7",
+  "seqno": 12,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.17
+Comment: https://keybase.io/crypto
 
-owGtU2tsVEUU3j6gtlgoRWgkgOzlIZAWZ+5r7l0tQSJqLQmliLxSNnNn5rbX7qPe
-3W5bYCNgoRAEAQnQEhFIkUKK4SFiC6VAH5QYFIJpBbHbFoMiBSlaJTExzlaJif41
-mWQyM9/5zne+c2ZLcpwjKSauq/nIg7rp38Z8fsdwsP7EnBWC4adlgmuFUMgGNuah
-LBB0F1pUcAkAAqiLBqEyMKAhE51SpBOGVElDFEEZaAAaCgRUkYEuY1GnSMUAQ1WW
-ATCZYagqBVhIF0zLl8/sItvyBTkt43w60iVdlrCqa7omIwQYZEBigMiYmsDQRUYp
-DyzwB6IRXJyBA2y65ed3/OD+S95/8f+z7uIBOgIUUUMKwoSYGEIFmZJiakTlTCIg
-UI8CA8z2YS/jaK9dFsAhIZwueJld6GFu2+8PRq0lQSsKgAgCRUEKgLw8HChwe1kQ
-8ziEGNRkTVU1ySQqobwAKMkKr49IRDORjlRCGFBFAICh8aOsiYhiTZUYFmXR5CoC
-7C2fX3CJCucHEHIJNgv5C1k0e8DK564FBNdSQdGhQs8tp6phKgSYgJomREBUAdM1
-ERtAxYao64ZGKQEEQIQVGZmIibxdWAMGQjxIyAtH89khiwzQRxv12AArSAqYxzPg
-Q9l04vdyaUW2P+gnfg9/LwgGi1xRf4JlRVF8CTPcfzO5DctH+azwgBCzA5bfx/3i
-yH9bp6cLrLTIspnbiiIUpGrcFRBNw0KcEss6JVhCoowkqHCjDM3gTZMkPi6yJFHK
-CB89WQdAMYgqQ5MvgBiWIFBVg5B/vJS5TJzPKbl/PhwstpkQTtoQK8U7YpIcY0c5
-4+/N3Pn+dpe1obxk6LjH32tQbPRvOZISUx7fbJFTHKvXbHPmFyf9+EVP6qE7PX8c
-ai/LSri2XOrKrZr39q0bL32n/Vq+7WHFZ492/Lb67LDF568ImXjDtOr4ur3Ogq7L
-P9f3bzsw5tKzbU29e5alBdu9/R+M64gM3124qisn/KB90aK4mzlDH1WPXBXZ2/zK
-wguTG2fNmApDvsPpLTmOp+/Ezr4JLyVvT+sdd7Xlqdq0ySUbs9+rcl3LntI+ZX35
-18v25o54+Jrzct3K+bmdC2Jaxz8HEpvuRk7PqA9L79A9sxsS5lYvvX0lXHG8r+WH
-TaWJ5Ix+/hd1Yq1DHGNe631ydo09YnzD1mlL8k5NaNvSmVxa/tH276s8Ex4M6jy7
-5PrutLZKkvHE6501WGgcNtn7TNX9/iWfLAMVue4hdt+e/c+vf5iKh48pnRY6eq76
-/sWEUXN31e04/Ht3Vo62zjSSU/LK59VUWn25F5rbDju7731Vcvd+xuCO4TO1NW/U
-op8uLPaEwcuJsSuHRJp20xOvNrdrNyPZGbfnXEm9+OLO1rrBQ9WK1CPf1NZvWrh2
-TkZJVu/HPTVxp3aNLul7N2Fd7ryjp9NHN8Dzkw4ee+RLrkzq2H81rvxg96TuzRPf
-tOZEWm9t3Bz75cm0kZUpa09sPZCZXXzO6pAbMxsz7X11gWN97VXZxr5Z810vrL6+
-AOXDXVPlM5EPYxvG9px0CuqnaF3W8bUu+UaTr9U56MCEpp4/AQ==
-=g1J2
+yMN1AnicbZJ7TBRHHMcPEVNOGhuJSoO0umdroFfY2dfsHtE2gpXTYlCoaRG9zs7O
+cgvcHdwdj+PUYLHamqJJi8baio82itLGYpGXpJQGMA00bRWKDygkElSMmGofwRLo
+HNH/Oslmd2c/v89+f79M57PhJnMYOnZK3TjwR0ZYT8eJYpNhfSclyKgeLcDYgkw+
+mb2RAo34/I58Q2NsDAs4VtI0XRRVBAhdPOQ0jiiQFbDICUjHWOMhATzCIiuKAhA5
+medUVcIYYkkgkggwixgroxvuXOIt9BpuP9XyqqCxGAMZEywgAEWOJ5omSBJQNMRJ
+nEA0qAORpYVOjy9UQcOpyEcSDQ/doy+O2Xj/wz/NzQIBIgkCnuMgQEDWsa4AAJCq
+QaQLggAQJVT6jJBCO8MK0GRJUHgZ8QoLgS4rs7mLZ3WYpX1BESKMdQSACHVe1GVM
+9QLHYqCEQB/xupGLUNrlDfhQCbPTytC9EgOT0FhDfTz5Xlpamugy/NhJCgpm0UAi
+9rioo9Dr8Xuwp4AyTr+/0GcLOfyBwtkiojqe6Byq4dboPGlFCfH6DI+bsQFKYr8R
+8gMoCSIQaEwrQ8oKDS9xGCFChJLM0hX6DykJDUkkIRLJkspDoBIVQomXiUTngyGv
+Yw3LEi8iQVQVjV48qxDIQ1bUZJEDOoFMqMEit4e6OZoT5VKnz8h1I3+xlzA7f+jI
+mWsKM5vmRcwJHTSTOfK5p8fP/fKCaZu9pjfSdLLJ2l63yj3zecuuBzdjtub1X383
+Ns1yaeC70rx5zY09tZvGIirnvfHbSktxQqO5tiEjwdFw1FlyjLd9crvz8o/ggGvO
+nkfk+DgzoJZXR28pbd7flt6+GdcWRR5PaDlaZc25vaXO8im4lZJ8fd/+JMuhofHd
+G07NJH8F2lpvJl3cAjf9U950qMsp/PrSmeSEF9ZWpLgys5Y87KspSh1ZdyPnTMBV
+99ryq8UB38X+rx9vvHw6Lbd6SXPVumNBMJ0av2jHZrhwRWzQ/7DmI/vWDAcTmEzv
+qTBWR12/11TRn2cZmWhpOv32mlcjB+Mrl8V/OH3uiD19VTs3Eag8e+evP7/k93iY
+hvpFQ51xZ13bv8gYbd2VXmX8u3Rkjflc5tT3ztT5l+qzyv27T0TZVwL/T39HRqVE
+HYxAN9JQWVXfAm0wptoeVzUmTx6wfXYt3bH6ygfxUfcejA8Gy6MvBJdHH852Z7vd
+ltj6XiV76PHP1Rm/tMS1Ju8NvLV4NKuu27wgOqZt8QrTvveK7qdNeMKHDz7fOLBe
+v3/c8uLMzaKkZR/bO7qM/MyyvZ2vCK137r45fyqmWz5/PubKpvrI/NH1Q813h5ee
+8x1ZOJZS3b2hq90Kv+nO2d2bZur99iROvKqEpV54/dbQSEzD1LaJmqp9k4frhwK/
+7xjeHv5o7jPXmivfT+o7tG3t5H+5u8Fy
+=6dg7
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -83,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/mrysav
 
 ==================================================================
-
